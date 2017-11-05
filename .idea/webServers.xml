@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8e570265-cbc1-4871-a838-7d09ef9adc0d" name="protable.app" url="http://protable.app">
+        <fileTransfer port="0" mountedRoot="$USER_HOME$/App.io/protable" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>

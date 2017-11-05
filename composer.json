@@ -1,0 +1,11 @@
+{
+  "authors": [
+    {
+      "name": "galbanie",
+      "email": "setrukmarcroger@gmail.com"
+    }
+  ],
+  "require": {
+    "twig/twig": "v2.4.4"
+  }
+}
